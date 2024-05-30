@@ -1,1 +1,22 @@
-FK
+Real-Time Translation
+
+Overview
+Real-Time Translation is a project aimed at developing and showcasing cutting-edge technologies for instantaneous language translation. Leveraging the power of machine learning and natural language processing, this project seeks to break down language barriers and facilitate seamless communication across linguistic divides.
+
+Features
+Instantaneous Translation: Translate speech or text in real-time, enabling fluid communication between speakers of different languages.
+Multiple Languages Supported: Support for a wide range of languages to accommodate diverse communication needs.
+High Accuracy: Utilize advanced algorithms to ensure accurate and reliable translations in various contexts.
+Scalability: Designed to handle high volumes of translation requests with minimal latency, suitable for both individual users and large-scale deployments.
+Privacy and Security: Implement robust privacy measures to safeguard user data and ensure confidentiality during translation processes.
+Getting Started
+
+To get started with Real-Time Translation, follow these steps:
+git clone https://github.com/miggs12/CS131Project.git
+Run mutation file in python3
+
+Acknowledgements
+Special thanks to the developers and contributors of the following open-source projects that have inspired or been integrated into Real-Time Translation:
+
+Google Cloud
+By: Miguel Torres, Wenbo Li, Ted Voo, Joseph Hoang
