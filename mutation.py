@@ -3,7 +3,7 @@ from google.cloud import speech_v1
 from pydub import AudioSegment
 import torchaudio
 from speechbrain.inference.classifiers import EncoderClassifier
-
+#libaries
 def sendfile(filepath):
     # Create a ZeroMQ context
     context = zmq.Context()
