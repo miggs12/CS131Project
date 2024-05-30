@@ -1,5 +1,6 @@
 from google.cloud import speech_v1
 from pydub import AudioSegment
+#libraries
 # import main
 
 
